@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it."
+title: "Entropic Dynamics of Galaxies (EDG) — No Dark Matter"
+authors:
+  - family-names: Tupay
+    given-names: Johann Anton Michael
+    orcid: "https://orcid.org/0009-0008-7661-8698"
+repository-code: "https://github.com/JAMTUPAY/paper6-entropic-galaxies"
+license: MIT
+version: v0.1.0
+date-released: 2025-08-09
+keywords:
+  - galaxy rotation curves
+  - baryonic dynamics
+  - entropic gravity
+  - MOND
+  - QCD entropy
+abstract: >
+  Testbed for galaxy rotation curves without dark matter using an entropic
+  acceleration scale set by the universal QCD RG-entropy constant (ΔS_RG ≈ 9.81 k_B).
+  Implements Newtonian, MOND-like, and RAR forms with a0 fixed from ΔS_RG and H0.
+preferred-citation:
+  type: article
+  title: "Entropic Dynamics of Galaxies without Dark Matter (testbed)"
+  authors:
+    - family-names: Tupay
+      given-names: Johann Anton Michael
+  year: 2025
+  journal: "Preprint"
