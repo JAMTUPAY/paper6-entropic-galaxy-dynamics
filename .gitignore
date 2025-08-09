@@ -1,0 +1,17 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# Virtual env
+venv/
+.env/
+.venv/
+
+# OS junk
+.DS_Store
+
+# Results & figures
+figures/
+results/
